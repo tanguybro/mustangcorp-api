@@ -1,138 +1,137 @@
 [
     {
-        "id": 1,
-        "name": "Tanguy",
-        "mtc": 10
+        "id":1,
+        "name":"Tanguy",
+        "mtc":10
     },
     {
-        "id": 2,
-        "name": "Julien",
-        "mtc": 45
+        "id":2,
+        "name":"Julien",
+        "mtc":45
     },
     {
-        "id": 3,
-        "name": "Clement",
-        "mtc": 100
+        "id":3,
+        "name":"Clement",
+        "mtc":100
     },
     {
-        "id": 4,
-        "name": "Axel",
-        "mtc": 30
+        "id":4,
+        "name":"Axel",
+        "mtc":30
     },
     {
-        "id": 5,
-        "name": "Romain",
-        "mtc": 25
+        "id":5,
+        "name":"Romain",
+        "mtc":25
     },
     {
-        "id": 6,
-        "name": "Antoine",
-        "mtc": 10
+        "id":6,
+        "name":"Antoine",
+        "mtc":10
     },
     {
-        "id": 7,
-        "name": "Chloe",
-        "mtc": 1
+        "id":7,
+        "name":"Chloe",
+        "mtc":1
     },
     {
-        "id": 8,
-        "name": "Eilynn",
-        "mtc": 5
+        "id":8,
+        "name":"Eilynn",
+        "mtc":5
     },
     {
-        "id": 9,
-        "name": "Inès",
-        "mtc": 56
+        "id":9,
+        "name":"Inès",
+        "mtc":56
     },
     {
-        "id": 10,
-        "name": "Joanna",
-        "mtc": 55
+        "id":10,
+        "name":"Joanna",
+        "mtc":55
     },
     {
-        "id": 11,
-        "name": "Abel",
-        "mtc": 75
+        "id":11,
+        "name":"Abel",
+        "mtc":75
     },
     {
-        "id": 12,
-        "name": "Eloise",
-        "mtc": 6
+        "id":12,
+        "name":"Eloise",
+        "mtc":6
     },
     {
-        "id": 13,
-        "name": "Susie",
-        "mtc": 5
+        "id":13,
+        "name":"Susie",
+        "mtc":5
     },
     {
-        "id": 14,
-        "name": "Lea R",
-        "mtc": 15
+        "id":14,
+        "name":"Lea R",
+        "mtc":15
     },
     {
-        "id": 15,
-        "name": "Momo",
-        "mtc": 15
+        "id":15,
+        "name":"Momo",
+        "mtc":15
     },
     {
-        "id": 16,
-        "name": "Victor",
-        "mtc": 5
+        "id":16,
+        "name":"Victor",
+        "mtc":5
     },
     {
-        "id": 17,
-        "name": "Noah",
-        "mtc": 34
+        "id":17,
+        "name":"Noah",
+        "mtc":34
     },
     {
-        "id": 18,
-        "name": "Louise",
-        "mtc": 0
+        "id":18,
+        "name":"Louise",
+        "mtc":0
     },
     {
-        "id": 19,
-        "name": "Nathan",
-        "mtc": 14
+        "id":19,
+        "name":"Nathan",
+        "mtc":14
     },
     {
-        "id": 20,
-        "name": "Armande",
-        "mtc": 10
+        "id":20,
+        "name":"Armande",
+        "mtc":10
     },
     {
-        "id": 21,
-        "name": "Jules",
-        "mtc": 65
+        "id":21,
+        "name":"Jules",
+        "mtc":65
     },
     {
-        "id": 22,
-        "name": "Lucas",
-        "mtc": 25
+        "id":22,
+        "name":"Lucas",
+        "mtc":25
     },
     {
-        "id": 23,
-        "name": "Lea G",
-        "mtc": 10
+        "id":23,
+        "name":"Lea G",
+        "mtc":10
     },
     {
-        "id": 24,
-        "name": "Juliette",
-        "mtc": 10
+        "id":24,
+        "name":"Juliette",
+        "mtc":10
     },
     {
-        "id": 25,
-        "name": "Ema",
-        "mtc": 20
+        "id":25,
+        "name":"Ema",
+        "mtc":20
     },
     {
-        "id": 26,
-        "name": "Fabrice",
-        "mtc": 5
+        "id":26,
+        "name":"Fabrice",
+        "mtc":5
     },
     {
-        "id": 27,
-        "name": "Alex",
-        "mtc": 5
-    },
-
+        "id":27,
+        "name":"Alex",
+        "mtc":5
+    }
 ]
