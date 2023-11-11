@@ -42,7 +42,7 @@
     {
         "id":9,
         "name":"Inès",
-        "mtc":66
+        "mtc":96
     },
     {
         "id":10,
@@ -92,7 +92,7 @@
     {
         "id":19,
         "name":"Nathan",
-        "mtc":14
+        "mtc":64
     },
     {
         "id":20,
@@ -133,5 +133,15 @@
         "id":27,
         "name":"Alex",
         "mtc":5
-    }
+    },
+    {
+        "id":28,
+        "name":"Thibaud",
+        "mtc":30
+    },
+    {
+        "id":29,
+        "name":"Margaux",
+        "mtc":30
+    },
 ]
