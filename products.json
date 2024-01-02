@@ -7,33 +7,33 @@
     },
     {
         "id": 2,
-        "name": "Bonbons",
-        "icon": "candy-cane",
-        "price": 15
+        "name": "Casque Bluetooth",
+        "icon": "headphones",
+        "price": 45
     },
     {
         "id": 3,
-        "name": "Bouteille",
+        "name": "Bouteille de vin",
         "icon": "wine-bottle",
         "price": 50
     },
     {
         "id": 4,
-        "name": "0,0001 BTC",
-        "icon": "bitcoin-sign",
-        "price": 10
+        "name": "Jeu de cartes",
+        "icon": "heart",
+        "price": 25
     },
     {
         "id": 5,
-        "name": "Jeu de cartes",
-        "icon": "heart",
-        "price": 30
+        "name": "Booster Yu-Gi-Oh!",
+        "icon": "dragon",
+        "price": 15
     },
     {
         "id": 6,
         "name": "Manga Dofus 1 à 7",
         "icon": "book",
-        "price": 65
+        "price": 70
     },
     {
         "id": 7,
@@ -43,15 +43,15 @@
     },
     {
         "id": 8,
-        "name": "Montre",
-        "icon": "clock",
-        "price": 10
+        "name": "Paquet de bonbons",
+        "icon": "candy-cane",
+        "price": 20
     },
     {
         "id": 9,
         "name": "Sucette au CBD",
         "icon": "candy-cane",
-        "price": 20
+        "price": 15
     },
     {
         "id": 10,
