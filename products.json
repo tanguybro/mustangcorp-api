@@ -7,9 +7,9 @@
     },
     {
         "id": 2,
-        "name": "Casque Bluetooth",
-        "icon": "headphones",
-        "price": 45
+        "name": "Maxi goal",
+        "icon": "ticket",
+        "price": 30
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "id": 4,
         "name": "Jeu de cartes",
         "icon": "heart",
-        "price": 25
+        "price": 20
     },
     {
         "id": 5,
@@ -45,18 +45,18 @@
         "id": 8,
         "name": "Paquet de bonbons",
         "icon": "candy-cane",
-        "price": 20
+        "price": 25
     },
     {
         "id": 9,
-        "name": "Sucette au CBD",
-        "icon": "candy-cane",
+        "name": "Poster One Piece Wanted",
+        "icon": "skull-crossbones",
         "price": 15
     },
     {
         "id": 10,
         "name": "GoPro",
         "icon": "camera",
-        "price": 200
+        "price": 180
     }
 ]
