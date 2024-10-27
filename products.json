@@ -15,7 +15,7 @@
         "id": 3,
         "name": "Bouteille de vin",
         "icon": "wine-bottle",
-        "price": 50
+        "price": 60
     },
     {
         "id": 4,
@@ -57,6 +57,6 @@
         "id": 10,
         "name": "GoPro",
         "icon": "camera",
-        "price": 180
+        "price": 160
     }
 ]
