@@ -21,7 +21,7 @@
         "id": 4,
         "name": "Axel",
         "mtc": 72,
-        "victory": 0
+        "victory": 1
     },
     {
         "id": 5,
@@ -159,7 +159,7 @@
         "id": 27,
         "name": "Alex",
         "mtc": 4,
-        "victory": 1
+        "victory": 2
     },
     {
         "id": 28,
@@ -189,7 +189,7 @@
         "id": 32,
         "name": "Emma",
         "mtc": 40,
-        "victory": 0
+        "victory": 1
     },
     {
         "id": 33,
