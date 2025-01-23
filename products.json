@@ -31,9 +31,9 @@
     },
     {
         "id": 6,
-        "name": "Manga Dofus 1 à 7",
-        "icon": "book",
-        "price": 70
+        "name": "Audi RS6",
+        "icon": "car",
+        "price": 10000000
     },
     {
         "id": 7,
