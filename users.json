@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Tanguy",
-        "mtc": 50,
+        "mtc": 55,
         "victory": 1
     },
     {
@@ -14,7 +14,7 @@
     {
         "id": 3,
         "name": "Clement",
-        "mtc": 58,
+        "mtc": 63,
         "victory": 3
     },
     {
@@ -32,7 +32,7 @@
     {
         "id": 6,
         "name": "Antoine",
-        "mtc": 10,
+        "mtc": 15,
         "victory": 1
     },
     {
@@ -50,7 +50,7 @@
     {
         "id": 9,
         "name": "Inès",
-        "mtc": 96,
+        "mtc": 101,
         "victory": 2
     },
     {
@@ -62,7 +62,7 @@
     {
         "id": 11,
         "name": "Abel",
-        "mtc": 90,
+        "mtc": 95,
         "victory": 3
     },
     {
