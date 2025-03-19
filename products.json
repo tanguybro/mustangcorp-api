@@ -31,9 +31,9 @@
     },
     {
         "id": 6,
-        "name": "Audi RS6",
-        "icon": "car",
-        "price": 10000000
+        "name": "Jeu de société",
+        "icon": "dice",
+        "price": 80
     },
     {
         "id": 7,
