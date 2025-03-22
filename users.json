@@ -196,5 +196,17 @@
         "name": "Fanny",
         "mtc": 5,
         "victory": 0
+    },
+    {
+        "id": 34,
+        "name": "Louis",
+        "mtc": 0,
+        "victory": 0
+    },
+    {
+        "id": 35,
+        "name": "Mathis",
+        "mtc": 0,
+        "victory": 1
     }
 ]
