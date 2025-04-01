@@ -13,9 +13,9 @@
     },
     {
         "id": 3,
-        "name": "Bouteille de vin",
-        "icon": "wine-bottle",
-        "price": 60
+        "name": "Jeu vidéo",
+        "icon": "gamepad",
+        "price": 100
     },
     {
         "id": 4,
@@ -27,31 +27,31 @@
         "id": 5,
         "name": "NBA 2K19 + Fifa 18 PS4",
         "icon": "gamepad",
-        "price": 15
+        "price": 5
     },
     {
         "id": 6,
-        "name": "Jeu de société",
+        "name": "Jeu de société (<20 €)",
         "icon": "dice",
-        "price": 80
+        "price": 60
     },
     {
         "id": 7,
-        "name": "Manga",
-        "icon": "book",
-        "price": 40
+        "name": "Ballon de foot",
+        "icon": "futbol",
+        "price": 50
     },
     {
         "id": 8,
-        "name": "Paquet de bonbons",
-        "icon": "candy-cane",
-        "price": 25
+        "name": "1 mois d'abonnement Dofus",
+        "icon": "egg",
+        "price": 35
     },
     {
         "id": 9,
-        "name": "Poster One Piece Wanted",
+        "name": "Booster Pokémon",
         "icon": "skull-crossbones",
-        "price": 5
+        "price": 40
     },
     {
         "id": 10,
