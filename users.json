@@ -8,13 +8,13 @@
     {
         "id": 2,
         "name": "Julien",
-        "mtc": 110,
+        "mtc": 160,
         "victory": 1
     },
     {
         "id": 3,
         "name": "Clement",
-        "mtc": 68,
+        "mtc": 118,
         "victory": 3
     },
     {
@@ -26,7 +26,7 @@
     {
         "id": 5,
         "name": "Romain",
-        "mtc": 77,
+        "mtc": 127,
         "victory": 1
     },
     {
@@ -50,7 +50,7 @@
     {
         "id": 9,
         "name": "Inès",
-        "mtc": 101,
+        "mtc": 151,
         "victory": 2
     },
     {
@@ -86,7 +86,7 @@
     {
         "id": 15,
         "name": "Momo",
-        "mtc": 15,
+        "mtc": 65,
         "victory": 1
     },
     {
@@ -110,7 +110,7 @@
     {
         "id": 19,
         "name": "Nathan",
-        "mtc": 76,
+        "mtc": 126,
         "victory": 1
     },
     {
@@ -122,13 +122,13 @@
     {
         "id": 21,
         "name": "Jules",
-        "mtc": 137,
+        "mtc": 187,
         "victory": 2
     },
     {
         "id": 22,
         "name": "Lucas",
-        "mtc": 25,
+        "mtc": 75,
         "victory": 0
     },
     {
@@ -152,13 +152,13 @@
     {
         "id": 26,
         "name": "Fabrice",
-        "mtc": 5,
+        "mtc": 55,
         "victory": 0
     },
     {
         "id": 27,
         "name": "Alex",
-        "mtc": 4,
+        "mtc": 54,
         "victory": 2
     },
     {
@@ -210,4 +210,5 @@
         "victory": 1
     }
 ]
+
 
